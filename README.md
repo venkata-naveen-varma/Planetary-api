@@ -9,11 +9,24 @@ REST full API's using Python and Flask to utilize the data from SQLitedatabase
 - SQLite database, SQLite browser
 - Python, Flask
 
-### Software Libraries
-- flask
-- flask_sqlalchemy
-- flask_marshmallow
-- flask_mail, to send emails to users
+### Libraries
+- blinker
+- Click
+- Flask
+- Flask-JWT-Extended
+- Flask-Mail
+- flask-marshmallow
+- Flask-SQLAlchemy
+- itsdangerous
+- Jinja2
+- MarkupSafe
+- marshmallow
+- marshmallow-sqlalchemy
+- PyJWT
+- six
+- SQLAlchemy
+- Werkzeug
+
 
 ### Steps to Configure SQLite database in pycharm
 - In the configurations of the pycharm project, select python interpretors and install python-SQLAlchemy package, this will install the required package SQLAlchemy along with it.
